@@ -34,6 +34,6 @@ If the player has unlocked other characters, a character different from the play
 ~ When a character follows the player, they work like standard followers and don't use their special skills or pick up 
   weapons.
 
-  # **Character List**
+  ## **Character List**
 
    💟Health | 🛡️Armour | 🔷Energy | ❇️Critical Chance | ⚔️Melee Damage | 👞Movement Speed
