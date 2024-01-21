@@ -40,28 +40,13 @@ ________________
 ## **HISTORY** 
 Our Lady of Peace and Good Voyage Parish of the Roman Catholic Diocese of Libmanan was established on 2004. It is located at Brgy. Antipolo, Municipality of Minalabac, Province of Camarines Sur. The Parish Fiesta is celebrated every 7th day of May. <br>
 
+________________
+Click ![HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes nearby.
+________________
 
-![soul Knight](https://static.wikia.nocookie.net/soul-knight/images/7/7f/503Living_Room.png/revision/latest/scale-to-width-down/608?cb=20230915041708)<br>
-
-## **Characters as NPCs**
-
-Each character has something to say when the player interacts with them.
-
-They also have normal properties like the player; such as can be affected with [Burn](https://soul-knight.fandom.com/wiki/Burn), healed and shielded by the Priestess, etc. Most of these would just occur in the Living Room, however.<br>
-
-If the player has unlocked other characters, a character different from the player's (different from all in [Multiplayer](https://soul-knight.fandom.com/wiki/Multiplayer) mode) may also appear at the starting room of each floor, as an NPC during a run (except Legendary Heroes). Talking to that character will cause something to happen, depending on the character the player is talking to. Some may even follow the player and attack enemies for the rest of the current floor.
-
-~ All character NPCs (except legendary characters) are found in the upper left area of the first room in every level, next to the place where [Vending Machines](https://soul-knight.fandom.com/wiki/Vending_Machines) would appear, but cannot be found in [Boss Rush Mode](https://soul-knight.fandom.com/wiki/Boss_Rush_Mode).<br>
-
-~ In a past version, locked characters could also appear in this fashion. However, talking to a locked character would only show a message telling that the player needs to unlock it first.
-
-~This still occurs in [Multiplayer](https://soul-knight.fandom.com/wiki/Multiplayer) if the character is not unlocked for any player.<br>
-
-~ A character will use the last skin the player played them with, both in the Living Room and as NPCs during a run.
-
-~ When a character follows the player, they work like standard followers and don't use their special skills or pick up 
-  weapons.
-
-  ## **Character List**
-
-   💟Health | 🛡️Armour | 🔷Energy | ❇️Critical Chance | ⚔️Melee Damage | 👞Movement Speed
+**Updated last January 21, 2024**
+***Notice*** - This site is not associated to any Parish or Diocese. For prayer request, church certifications, documents and other liturgical services, kindly coordinate directly to your Parish Office.
+________________
+**Links**
+[https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html](https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html)
+[https://www.facebook.com/antipolo.church/](https://www.facebook.com/antipolo.church/)
