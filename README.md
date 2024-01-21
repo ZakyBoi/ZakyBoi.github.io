@@ -34,13 +34,12 @@ ________________
 * **Friday** - 6:00 PM
 * **Saturday** - 7:00 AM
 * **Sunday** - 6:00 AM, 8:00 AM, 10:00 AM, 5:00 PM
-_________________
-Different characters have a unique set of stats, [skills](https://soul-knight.fandom.com/wiki/Skills) starter [weapons](https://soul-knight.fandom.com/wiki/Weapons) (see table below). Some characters can be purchased using in-game [gems](https://soul-knight.fandom.com/wiki/Gems)<br>
 
-**Features:** 
-* 20+ unique heroes—a rogue, an elf archer, a magician... There is always an option that goes perfectly with your playstyle.
-* 400+ weapons—guns, swords and shovels... Numerous ways to nuke the pestering monsters from orbit!
-* Randomly generated dungeons—dark forests populated by goblins, medieval chateaus infested with zombies… Raid on a profusion of monster dens to loot treasures and bump into different NPCs.
+________________
+
+## **HISTORY** 
+Our Lady of Peace and Good Voyage Parish of the Roman Catholic Diocese of Libmanan was established on 2004. It is located at Brgy. Antipolo, Municipality of Minalabac, Province of Camarines Sur. The Parish Fiesta is celebrated every 7th day of May. <br>
+
 
 ![soul Knight](https://static.wikia.nocookie.net/soul-knight/images/7/7f/503Living_Room.png/revision/latest/scale-to-width-down/608?cb=20230915041708)<br>
 
