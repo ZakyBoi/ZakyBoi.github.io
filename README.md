@@ -41,12 +41,16 @@ ________________
 Our Lady of Peace and Good Voyage Parish of the Roman Catholic Diocese of Libmanan was established on 2004. It is located at Brgy. Antipolo, Municipality of Minalabac, Province of Camarines Sur. The Parish Fiesta is celebrated every 7th day of May. <br>
 
 ________________
-Click ![HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes nearby.
+
+Click ![HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes nearby.<br>
+
 ________________
 
 **Updated last January 21, 2024**
-***Notice*** - This site is not associated to any Parish or Diocese. For prayer request, church certifications, documents and other liturgical services, kindly coordinate directly to your Parish Office.
+***Notice*** - This site is not associated to any Parish or Diocese. For prayer request, church certifications, documents and other liturgical services, kindly coordinate directly to your Parish Office.<br>
+
 ________________
+
 **Links**
 [https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html](https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html)
 [https://www.facebook.com/antipolo.church/](https://www.facebook.com/antipolo.church/)
