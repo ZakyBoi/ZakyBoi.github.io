@@ -25,11 +25,16 @@
 * **Feast Day** - May 7
 * **Patron Saint** - Our Lady of Peace and Good Voyage
 
-
-
 ________________
-<br>There are currently 28 playable characters, in which 5 of them are [Legendary Heroes](https://soul-knight.fandom.com/wiki/Category:Legendary_Heroes)<br>
-
+## **SCHEDULE OF MASSES**
+* **Monday** - None
+* **Tuesday** - None
+* **Wednesday** - 6:00 PM
+* **Thursday** - 6:00 PM
+* **Friday** - 6:00 PM
+* **Saturday** - 7:00 AM
+* **Sunday** - 6:00 AM, 8:00 AM, 10:00 AM, 5:00 PM
+_________________
 Different characters have a unique set of stats, [skills](https://soul-knight.fandom.com/wiki/Skills) starter [weapons](https://soul-knight.fandom.com/wiki/Weapons) (see table below). Some characters can be purchased using in-game [gems](https://soul-knight.fandom.com/wiki/Gems)<br>
 
 **Features:** 
