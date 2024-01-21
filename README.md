@@ -42,7 +42,7 @@ Our Lady of Peace and Good Voyage Parish of the Roman Catholic Diocese of Libman
 
 ________________
 
-Click ![HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes nearby.<br>
+Click [HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes nearby.<br>
 
 ________________
 
