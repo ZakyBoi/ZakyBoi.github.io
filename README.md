@@ -2,8 +2,8 @@
 ![Ourlady Of Peace and Good Voyage Church](https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/305665077_395976282690673_6470421455091930676_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_ohc=TxX5hqp4RngAX-ELrOI&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfDr87aDuPXTaKxv2VXolI0weJxADxxBtlVBg9j4eIbvMQ&oe=65AE7558)<br>
 ## **CONTACT DETAILS**
 * **Address** -  Antipolo, Minalabac, Camarines Sur 4414
-* **Contact Number**
-* **Email** -
+* **Contact Number** - No Record
+* **Email** - No Record
 * **Facebook** - [https://www.facebook.com/antipolo.church/](https://www.facebook.com/antipolo.church/)
 * **Website** -[https://zakyboi.github.io/](https://zakyboi.github.io/)
 
@@ -45,7 +45,7 @@ Click [HERE](https://www.parishph.com/search/label/dlib_vc_sjw) to see Parishes 
 
 ________________
 
-**Updated last January 21, 2024**
+**Updated last January 21, 2024**<br>
 ***Notice*** - This site is not associated to any Parish or Diocese. For prayer request, church certifications, documents and other liturgical services, kindly coordinate directly to your Parish Office.<br>
 
 ________________
