@@ -26,13 +26,13 @@
 
 ________________
 ## **SCHEDULE OF MASSES**
-* **Monday** - None
-* **Tuesday** - None
-* **Wednesday** - 6:00 PM
-* **Thursday** - 6:00 PM
-* **Friday** - 6:00 PM
-* **Saturday** - 7:00 AM
-* **Sunday** - 6:00 AM, 8:00 AM, 10:00 AM, 5:00 PM
+* **Monday** - 6:00 AM
+* **Tuesday** - 6:00 AM
+* **Wednesday** - 6:00 AM
+* **Thursday** - 6:00 AM
+* **Friday** - 6:00 AM
+* **Saturday** - 6:00 AM
+* **Sunday** - 4:00 AM, 5:00 PM
 
 ________________
 
