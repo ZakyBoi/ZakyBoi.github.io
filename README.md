@@ -51,5 +51,4 @@ ________________
 ________________
 
 **Links**<br>
-[https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html](https://www.parishph.com/2022/04/our-lady-of-peace-and-good-voyage.html)<br>
 [https://www.facebook.com/antipolo.church/](https://www.facebook.com/antipolo.church/)
